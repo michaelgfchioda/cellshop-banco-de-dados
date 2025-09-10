@@ -1,4 +1,6 @@
 <h1 align="center"> <strong> CellShop Project🏪 </strong> </h1>
+
+<h2> INTRODUÇÃO🌱 </h2>
 <p> <strong>
 Olá! Seja bem-vindo ao repertório do meu projeto: CellShop!
 
@@ -37,3 +39,4 @@ Me acompanhe nessa jornada acadêmica!
 <br>
 🟣 Agora, em relação ao que fazer com o projeto, no momento, penso nele apenas como um dos meus projetos de desenvolvimento pessoal para enriquecer meu portifólio.
 </strong> </p>
+
