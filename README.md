@@ -2,7 +2,7 @@
 
 <h2> INTRODUÇÃO🌱 </h2>
 <p> <strong>
-Olá! Seja bem-vindo ao repertório do meu projeto: CellShop!
+Olá! Seja bem-vindo ao repositório do meu projeto: CellShop!
 
 Esse repositório é um dos meus espaços de aprendizado, criação e evolução no mundo da tecnologia — onde cada arquivo conta uma história de estudo, esforço e crescimento.  
 
@@ -39,4 +39,5 @@ Me acompanhe nessa jornada acadêmica!
 <br>
 🟣 Agora, em relação ao que fazer com o projeto, no momento, penso nele apenas como um dos meus projetos de desenvolvimento pessoal para enriquecer meu portifólio.
 </strong> </p>
+
 
