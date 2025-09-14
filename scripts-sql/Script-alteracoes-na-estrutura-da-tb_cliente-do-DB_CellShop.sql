@@ -10,3 +10,4 @@ CREATE INDEX idx_cpf ON tb_cliente (cpf); -- Para que a Query seja otimizada e m
 
 ALTER TABLE tb_cliente
 ADD CONSTRAINT uk_tb_cliente_cpf UNIQUE (cpf); -- Para que cada CPF seja único para identificar um cliente
+
