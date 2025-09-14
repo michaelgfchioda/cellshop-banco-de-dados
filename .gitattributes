@@ -1,0 +1,25 @@
+# ====================================
+# Forçar detecção de SQL no Linguist
+# ====================================
+*.sql linguist-detectable=true
+*.sql linguist-vendored=false
+*.sql linguist-generated=false
+
+# =========================================
+# Ignorar arquivos de dados e documentação
+# =========================================
+*.csv linguist-detectable=false
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
+
+# ================================
+# Diagramas e imagens não contam
+# ================================
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.jpeg linguist-detectable=false
+*.svg linguist-detectable=false
+
+# =============================================================
+# Garantir que apenas código relevante de SQL entre no cálculo
+# =============================================================
