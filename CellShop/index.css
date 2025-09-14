@@ -1,0 +1,110 @@
+body {
+    background-color: rgb(80, 25, 123);
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+    border-radius: 10px;
+    border-color: white;
+}
+
+titulo h1 {
+    color: white;
+    background-color: rgb(74, 13, 123);
+    
+    text-align: center;
+
+    margin: 0px;
+    border-radius: 25px;
+    border-color: rgb(136, 59, 160);
+    padding: 70px;
+}
+
+imagem1 > img {
+    border-radius: 100px;
+}
+
+imagem2 > img {
+    border-radius: 0px;
+}
+
+p {
+    color: white;
+    background-color: rgb(74, 13, 123);
+
+    padding: 35px;
+    border-radius: 25px;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    text-align: center;
+}
+
+dpstitulo > hr {
+    margin-top: 0px;
+
+    border-style: hidden;
+}
+
+antesbotao > hr {
+    margin-top: 0px;
+    margin-bottom: 40px;
+
+    border-style: hidden;
+}
+
+rodape > hr {
+    margin-top: 100px;
+
+    border-color: rgb(74, 13, 123);
+    border-radius: 25px;
+    background-color: rgb(74, 13, 123);
+    padding-bottom: 10px;
+}
+
+footer {
+    color: white;
+
+    text-align: center;
+    font-size: small;
+
+    border: 10px;
+
+    margin-top: 150px;
+}
+
+button {
+    color: rgb(136, 59, 160);
+    font-size: large;
+
+    border-radius: 50px;
+    border-color: rgb(136, 59, 160);
+
+    padding: 50px;
+    
+    margin: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+    cursor: pointer;
+}
+
+/* Estilizando os três botões da página
+botao1 > button {
+    
+}
+
+botao2 > button {
+
+}
+
+botao3 > button {
+    
+}
+*/
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
