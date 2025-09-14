@@ -9,7 +9,7 @@ INTO TABLE tb_cliente
 FIELDS TERMINATED BY ';'
 LINES TERMINATED BY '\r\n'
 (nome, cpf, email, telefone);
--- IGNORE 1 ROW; - Não precisa, pois não possui cabeçalho
+-- IGNORE 1 ROW; - Não é necessário, pois o arquivo.csv importado não possui cabeçalho
 
 SELECT *
 FROM tb_cliente;
@@ -192,3 +192,4 @@ INSERT INTO tb_pagamento (forma_pagamento, valor_pago, parcelas, id_venda) VALUE
 
 SELECT *
 FROM tb_pagamento;
+
