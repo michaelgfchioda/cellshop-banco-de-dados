@@ -15,7 +15,7 @@ Aqui você encontrará todas as etapas do meu projeto, desafios, atividades e ex
 Estou construindo minha trajetória como futuro profissional em Engenharia da Computação e me desenvolvendo nas áreas de desenvolvimento back-end, front=end, database, e este é o meu primeiro projeto pessoal entre muitos que virão!
 
 Me acompanhe nessa jornada acadêmica!
-</strong> </p>
+</strong> </p> <br>
 
 <h2> Sobre o Projeto CellShopℹ️ </h2>
 <p> <strong>
@@ -25,6 +25,8 @@ Me acompanhe nessa jornada acadêmica!
 <hr>
 
 <h3 align="center"> SGBD ESCOLHIDO PARA O PROJETO⚒️ </h3>
+
+<p align="center"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60/https%3A%2F%2Fdashboard.snapcraft.io%2Fsite_media%2Fappmedia%2F2020%2F04%2Fmysql-workbench.png"/> </p>
 
 🟣 Para a criação do Banco de Dados, escolhi o SGBD (Sistema de Gerenciamento de Banco de Dados) MySQL Workbench, isso significa que a linguagem SQL será um dialeto SGBD escolhido, ou seja, haverá algumas exclusividades em relação a extensões, funcionalidades, assim como em qualquer outro SGBD, como a Oracle, por exemplo.
 <hr>
@@ -39,5 +41,6 @@ Me acompanhe nessa jornada acadêmica!
 <br>
 🟣 Agora, em relação ao que fazer com o projeto, no momento, penso nele apenas como um dos meus projetos de desenvolvimento pessoal para enriquecer meu portifólio.
 </strong> </p>
+
 
 
