@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(80, 25, 123);
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    border-radius: 10px;
+    border-color: white;
+}
+
+titulo > h1 {
+    background-color: rgb(74, 13, 123);
+    color: white;
+
+    padding: 40px;
+    border-color: rgb(74, 13, 123);
+    border-radius: 25px;
+
+    margin-bottom: 10px;
+    margin-top: 0px;
+
+    text-align: center;
+}
+
+hr {
+    border-color: rgb(74, 13, 123);
+    border-radius: 0px;
+    padding: 4px;
+    
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+    color: rgb(74, 13, 123);
+}
+
+p {
+    color: white;
+
+    text-align: center;
+    font-size: large;
+}
+
+caixinha > select {
+    color: white;
+    background-color: rgb(101, 16, 165);
+
+    border-color: white;
+    border-radius: 15px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 10px;
+
+    text-align: left;
+    font-size: larger;
+}
+
+botao1 > button {
+    color: white;
+    background-color: rgb(101, 16, 165);
+
+    border-color: white;
+    border-radius: 15px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-left: 10px;
+
+    text-align: center;
+    font-size: larger;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

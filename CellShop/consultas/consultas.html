@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8"> <!-- Para aceitar todos os tipos de caracteres -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Para que o layout se adapte entre dispositivos -->
+        <meta http-equiv="X-UA-Compatible" content="ie=edge"> <!-- Para que o site seja compatível com o Internet Explorer -->
+        <meta author="Michael Chioda">
+        <meta description="Página de consultas - CellShop">
+        <!-- <link rel="stylesheet" href="consultar.css"> -->
+        
+        <title> Consultas - CellShop </title>
+
+    </head>
+
+    <body>
+        <h1> Realize uma consulta em CellShop </h1>
+        <hr>
+
+        <form method="POST" action="consultas.php">
+            <br>
+            <label> Escolha um tipo de consulta: </label>
+                <select name="consultas" id="consultas">
+                    <option value="consultar_produtos"> Produtos </option>
+                    <option value="consultar_vendas"> Vendas </option>
+                    <option value="consultar_vendas_c_itens"> Venda de Itens em 2024 </option>
+                    <option value="consultar_cliente_pix"> Pagamento em Pix </option>
+                    <option value="consultar_cliente_dinheiro"> Pagamento em Dinheiro </option>
+                    <option value="consultar_cliente_cartao"> Pagamento em Cartão </option>
+                    <option value="consultar_clientes"> Clientes </option>
+                </select>
+            <button type="submit" id="consultar" name="consultar"> Consultar </button>
+        </form>
+
+    </body>
+
+</html>
